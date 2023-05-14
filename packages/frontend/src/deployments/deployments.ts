@@ -2,7 +2,7 @@ import { env } from '@config/environment'
 import { SubstrateDeployment } from '@scio-labs/use-inkathon'
 
 export enum ContractIds {
-  Greeter = 'greeter'
+  Greeter = 'greeter',
   Treasury = 'treasury',
   PolNFT = 'pol_nft',
 }
